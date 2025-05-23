@@ -1,0 +1,12 @@
+requests
+python-dotenv
+kafka-python
+apache-airflow
+pyspark
+psycopg2-binary
+scikit-learn
+numpy
+pandas
+mlflow
+xgboost
+ipykernel
